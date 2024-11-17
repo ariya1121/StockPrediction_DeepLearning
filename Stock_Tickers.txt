@@ -1,0 +1,61 @@
+1. Major Stock Exchanges and Their Stocks
+NYSE (New York Stock Exchange)
+Examples:
+
+AMZN: Amazon
+MSFT: Microsoft
+AAPL: Apple
+TSLA: Tesla
+GOOG or GOOGL: Alphabet (Google)
+NASDAQ
+Examples:
+
+INTC: Intel
+NFLX: Netflix
+NVDA: Nvidia
+META: Meta Platforms (Facebook)
+Other Global Stock Exchanges
+
+LSE (London Stock Exchange): BP.L, HSBA.L
+BSE/NSE (India): RELIANCE.BO, TCS.NS, INFY.BO
+TSE (Tokyo Stock Exchange): 7203.T (Toyota)
+ASX (Australian Stock Exchange): BHP.AX, CBA.AX
+2. Indices
+You can retrieve data for popular indices like:
+
+^GSPC: S&P 500
+^DJI: Dow Jones Industrial Average
+^IXIC: NASDAQ Composite
+^NSEI: Nifty 50 (India)
+^FTSE: FTSE 100 (UK)
+^N225: Nikkei 225 (Japan)
+3. ETFs (Exchange-Traded Funds)
+Popular ETFs available on Yahoo Finance:
+
+SPY: SPDR S&P 500 ETF Trust
+QQQ: Invesco QQQ Trust
+IVV: iShares Core S&P 500 ETF
+VTI: Vanguard Total Stock Market ETF
+4. Commodities
+CL=F: Crude Oil
+GC=F: Gold Futures
+SI=F: Silver Futures
+NG=F: Natural Gas
+5. Currencies
+EURUSD=X: Euro to US Dollar
+GBPUSD=X: British Pound to US Dollar
+JPYUSD=X: Japanese Yen to US Dollar
+BTC-USD: Bitcoin to US Dollar
+6. Cryptocurrencies
+Popular cryptocurrency tickers available:
+
+BTC-USD: Bitcoin
+ETH-USD: Ethereum
+ADA-USD: Cardano
+SOL-USD: Solana
+7. Mutual Funds
+VFINX: Vanguard 500 Index Fund
+FCNTX: Fidelity Contrafund
+8. Bonds
+^TNX: 10-Year Treasury Note Yield
+^IRX: 13-Week Treasury Bill Yield

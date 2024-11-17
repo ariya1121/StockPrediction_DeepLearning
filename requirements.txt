@@ -9,3 +9,4 @@ scikit-learn==1.2.2
 # Deep learning dependencies
 tensorflow==2.12.0
 keras==2.12.0
+
